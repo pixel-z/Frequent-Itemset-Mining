@@ -1,5 +1,4 @@
 tut.cpp
-output.txt
-FIFA.txt
-SPMF.txt
+*.txt
 a.out
+.vscode
