@@ -290,7 +290,7 @@ int main(void)
     file_data.close();
     // cerr << "enter "
     //      << "\n";
-    cout << "Running the FP-GROWTH With Merging Techenic";
+    cout << "Running the FP-GROWTH With Merging Technique";
     auto start = high_resolution_clock::now();
     FP_MERGING_STRAGY(minsup, dataset, alpha);
 
